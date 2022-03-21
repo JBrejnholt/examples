@@ -5,7 +5,7 @@
         "@pulumi/gcp": "^1.0.0",
         "@pulumi/pulumi": "^1.0.0",
         "@google-cloud/firestore": "^1.2.0",
-        "@google-cloud/pubsub": "^0.28.1",
+        "@google-cloud/pubsub": "^2.0.0",
         "body-parser": "^1.18.3",
         "express": "^4.16.4",
         "qs": "^6.7.0",
