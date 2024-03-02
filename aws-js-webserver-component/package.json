@@ -4,6 +4,6 @@
     "main": "index.js",
     "dependencies": {
         "@pulumi/pulumi": "^1.0.0",
-        "@pulumi/aws": "^1.0.0"
+        "@pulumi/aws": "^4.0.0"
     }
 }
