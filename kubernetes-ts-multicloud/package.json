@@ -5,7 +5,7 @@
     },
     "dependencies": {
         "@pulumi/awsx": "latest",
-        "@pulumi/azure": "^1.0.0",
+        "@pulumi/azure": "^5.84.0",
         "@pulumi/azuread": "^1.0.0",
         "@pulumi/eks": "latest",
         "@pulumi/gcp": "^1.0.0",
